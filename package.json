@@ -1,0 +1,29 @@
+{
+  "name": "magic-sink",
+  "version": "1.0.0",
+  "description": "A magical collection of utility functions for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/draconboones/magic-sink"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21",
+    "sort-awesome-module": "1.0.0",
+    "soulful-hope": "1.0.0",
+    "meet-astro-util": "1.0.0",
+    "astral-guide-live": "1.0.0",
+    "rely-luminary-insights": "1.0.0",
+    "quantum-harmony-sack": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draconboones/magic-sink/issues"
+  },
+  "homepage": "https://github.com/draconboones/magic-sink#readme"
+}
